@@ -1,4 +1,4 @@
-## Hi there 👋
+## 'Hoy! I'm Amos... yes, yet another Amos. I'm starting to learn to code/program!
 
 <!--
 **yetanotheramos/yetanotheramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
